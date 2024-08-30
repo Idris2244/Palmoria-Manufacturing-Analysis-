@@ -17,6 +17,22 @@ Employee Data: the primary dataset used for this analysis is the "Palmoria_data.
 - Excel - Data Cleaning 
 - Power Bi - Creating reports
 
+### Data Quanlity and Assessment/Cleaning 
+
+In the initial data perparation phase we performed the following tasks:
+
+- Data laoding and inspection
+- Handling missing values to undisclosed
+- Data cleaning and formatting.
+
+### Result & Findings
+
+- At Palmoria Manufacturing Group in Nigeria, the company allocates a total of $65 million annually towards employee salaries. With an average salary of $74,000 per employee, this significant investment underscores the company's commitment to compensating its workforce competitively.
+
+
+ 
+
+
 
 
 
