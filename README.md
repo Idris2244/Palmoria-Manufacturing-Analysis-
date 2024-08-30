@@ -46,6 +46,7 @@ EDA involved exploring the Employee data to answer kay question, such as:
 
 - At Palmoria Manufacturing Group in Nigeria, the company allocates a total of $65 million annually towards employee salaries. With an average salary of $74,000 per employee, this significant investment underscores the company's commitment to compensating its workforce competitively.
 - The company comprises twelve departments, with the Service Department leading in terms of salary expenditure, disbursing $5.9 million. Following closely are the Legal and Product Management Departments, each allocating $5.8 million in salaries. The Business Development and Support Departments both report salary expenditures of $5.6 million. Other departments also exhibit strong salary payments. To gain a comprehensive understanding of the salary distribution across all departments, further analysis is recommended.
+- Salaries are distributed across three locations: Abuja, Lagos, and Kaduna. Kaduna leads with the highest total salary expenditure, amounting to $25 million, followed by Abuja at $22 million and Lagos at $18 million. In terms of average salary, Lagos holds the highest average at $76,000, with Kaduna at $74,000, and Abuja at $72,000.
 - 
 
 
