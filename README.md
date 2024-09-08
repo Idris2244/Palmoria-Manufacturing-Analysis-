@@ -4,7 +4,7 @@
 
 ### Project overview 
 
-The goal of this project iss to analyze and understand gender distribution among employees within palmoria manufacturing group, Nigeria. the analysis explores various aspects such as location, department, salary, and ratings related to gender diversity and equity.
+The goal of this project is to analyze and understand gender distribution among employees within palmoria manufacturing group, Nigeria. the analysis explores various aspects such as location, department, salary, and ratings related to gender diversity and equity.
 
 ![palmoria grop](https://github.com/user-attachments/assets/c32486fe-4988-4050-867d-a4149b7aa3a6)
 
