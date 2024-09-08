@@ -27,7 +27,7 @@ In the initial data perparation phase we performed the following tasks:
 
 ### Exploratory Data Analysis 
 
-EDA involved exploring the Employee data to answer kay question, such as:
+EDA involved exploring the Employee data to answer key question, such as:
 
 - What is the Sum of Salary paid?
 - What is the Average salary paid?
